@@ -26,4 +26,4 @@ Um player de vídeo personalizado desenvolvido com HTML5, CSS e JavaScript, ofer
 - ``CSS Flexbox para estilização dinâmica da barra de progresso.``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/weslei573/Amigo-secreto/blob/main/app.js).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/weslei573/custom-video-player).
